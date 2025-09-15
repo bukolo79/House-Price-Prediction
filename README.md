@@ -72,5 +72,5 @@ The dataset contains numerical and categorical features:
 
 The trained Random Forest pipeline is saved using `joblib`. The project includes a **Streamlit app** for real-time predictions:
 
-```bash
-streamlit run House_Price_Prediction_App.py
+## 🌐 Live App
+https://smart-house-price-predictor.streamlit.app/
